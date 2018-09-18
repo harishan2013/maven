@@ -30,6 +30,9 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
+           <url>http://13.126.134.252:8090/manager/text</url>
+        <server>TomcatServer</server>
+        <path>/src</path>
         </configuration>
       </plugin>
     </plugins>
